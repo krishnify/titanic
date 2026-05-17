@@ -1,0 +1,5 @@
+print("Sadgurudeva")
+print("Ammayya")
+print("Sainatha")
+print("Darbar Sainatha")
+print("Om Sam Saravanabhava")
