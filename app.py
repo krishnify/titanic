@@ -33,7 +33,7 @@ st.pyplot(fig)
 # Age distribution
 st.write("### Age Distribution by Survival")
 fig, ax = plt.subplots()
-sns.histplot(data=titanic, x="age", hue="survived", bins=30, kde=True, ax=ax)
+sns.histplot(data=titanic, x="age", hue="survived", bins=50, kde=True, ax=ax)
 st.pyplot(fig)
 
 # Fare vs survival
